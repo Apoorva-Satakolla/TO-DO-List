@@ -16,7 +16,7 @@ Clone the repository or download the ZIP file.
 
 Open the **index.html** file in your browser.
 
-Start adding your tasks and manage your to-do list!
+Start adding your tasks and manage your to-do list.
 
 ## 📝License
 
