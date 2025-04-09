@@ -11,6 +11,6 @@ You can add tasks, mark them as completed and delete them. The app uses **localS
 ## 💻 How to Use
 Clone the repository or download the ZIP file.
 
-Open the index.html file in your browser.
+Open the **index.html** file in your browser.
 
 Start adding your tasks and manage your to-do list!
