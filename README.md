@@ -8,7 +8,7 @@ You can add tasks, mark them as completed and delete them. The app uses **localS
 - ✅ Add new tasks
 - 🗑️ Delete tasks
 - ✔️ Mark tasks as completed
-- 💾 Data persistence with **local Storage**
+- 💾 Data persistence with local Storage
 
 ## 💻 How to Use
 
